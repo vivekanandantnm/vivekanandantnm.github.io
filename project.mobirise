@@ -80,7 +80,7 @@
           "_name": "header1",
           "_anchor": "header1-2",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#4c6972",
