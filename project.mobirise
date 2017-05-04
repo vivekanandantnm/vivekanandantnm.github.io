@@ -9,7 +9,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 3,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/copy-of-svs-small-128x172.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
